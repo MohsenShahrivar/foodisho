@@ -1,0 +1,114 @@
+/*
+Name : Zoho. Sign Up Form
+Created On : World WIll Web (https://worldwillweb.com)
+Creator : Mohsen Shahrivar
+Date : 24.04.2021
+
+Color Pallet
+*/
+
+:root {
+    --primaryblue: #397ef6;
+    --secondaryblue: #fafbfc;
+    --thirdblue: #fbfbfb;
+    --darkblue: #344055;
+    --white: #ffffff;
+    --gray: #8d8d92;
+}
+
+/*
+
+
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--thirdblue);
+}
+
+body, body input, body textarea {
+    font-family: "KoHo", Poppins;
+}
+
+
+.bg-color-primary-blue {
+    background-color: var(--primaryblue);
+}
+.bg-color-secondary-blue {
+    background-color: var(--secondaryblue);
+}
+.bg-color-third-blue {
+    background-color: var(--thirdblue);
+}
+.bg-color-dark-blue {
+    background-color: var(--darkblue);
+}
+.bg-color-white {
+    background-color: var(--white);
+}
+.bg-color-gray {
+    background-color: var(--gray);
+}
+
+
+.color-primary-blue {
+    color: var(--primaryblue);
+}
+.color-secondary-blue {
+    color: var(--secondaryblue);
+}
+.color-third-blue {
+    color: var(--thirdblue);
+}
+.color-dark-blue {
+    color: var(--darkblue);
+}
+.color-white {
+    color: var(--white);
+}
+.color-gray {
+    color: var(--gray);
+}
+
+
+.border-color-primary-blue {
+    border: var(--primaryblue);
+}
+.border-color-secondary-blue {
+    border: var(--secondaryblue);
+}
+.border-color-third-blue {
+    border: var(--thirdblue);
+}
+.border-color-dark-blue {
+    border: var(--darkblue);
+}
+.border-color-white {
+    border: var(--white);
+}
+.border-color-gray {
+    border: var(--gray);
+}
+
+
+.font-weight-100 {
+    font-weight: 100;
+}
+.font-weight-300 {
+    font-weight: 300;
+}
+.font-weight-500 {
+    font-weight: 500;
+}
+.font-weight-700 {
+    font-weight: 700;
+}
+.font-weight-900 {
+    font-weight: 900;
+}
